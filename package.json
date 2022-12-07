@@ -1,6 +1,7 @@
 {
   "name": "dealer-app",
   "version": "0.1.0",
+  
   "homepage": "https://kishanhexascal.github.io/dealer-app/",
   "private": true,
   "dependencies": {
